@@ -1,0 +1,6 @@
+# Specify code owners who must review PRs. Use GitHub usernames with @
+# Example:
+# /components/ @your-team
+
+# Default owners for the whole repo
+* @vocalsbyss
